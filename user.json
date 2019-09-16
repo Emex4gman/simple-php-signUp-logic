@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "username": "dave",
+            "password": "1234567",
+            "email": "github@gmail.com"
+        }
+    ]
+}

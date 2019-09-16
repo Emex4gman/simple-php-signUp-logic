@@ -1,0 +1,1 @@
+## A simple PHP sIgnup logic using a json file user.json to store new users. 
